@@ -1,0 +1,2 @@
+# Dacon_PhysicsAI
+구조물 안정성 물리 추론 AI 경진대회
